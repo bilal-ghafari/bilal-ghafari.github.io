@@ -1,0 +1,7 @@
+.heading-color {
+    color: red !important;
+}
+
+.dropdown-item.active, .dropdown-item.active1{
+    color: var(--primary);
+}
